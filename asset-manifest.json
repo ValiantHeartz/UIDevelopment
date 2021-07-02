@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ValiantHeartz.github.io/UIDevelopment/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ValiantHeartz.github.io/UIDevelopment/static/js/main.8c5379e5.chunk.js",
-    "main.js.map": "/ValiantHeartz.github.io/UIDevelopment/static/js/main.8c5379e5.chunk.js.map",
-    "runtime-main.js": "/ValiantHeartz.github.io/UIDevelopment/static/js/runtime-main.2bcd9524.js",
-    "runtime-main.js.map": "/ValiantHeartz.github.io/UIDevelopment/static/js/runtime-main.2bcd9524.js.map",
-    "static/js/2.0776a14c.chunk.js": "/ValiantHeartz.github.io/UIDevelopment/static/js/2.0776a14c.chunk.js",
-    "static/js/2.0776a14c.chunk.js.map": "/ValiantHeartz.github.io/UIDevelopment/static/js/2.0776a14c.chunk.js.map",
-    "static/js/3.dd157172.chunk.js": "/ValiantHeartz.github.io/UIDevelopment/static/js/3.dd157172.chunk.js",
-    "static/js/3.dd157172.chunk.js.map": "/ValiantHeartz.github.io/UIDevelopment/static/js/3.dd157172.chunk.js.map",
-    "index.html": "/ValiantHeartz.github.io/UIDevelopment/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ValiantHeartz.github.io/UIDevelopment/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/ValiantHeartz.github.io/UIDevelopment/static/js/2.0776a14c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ValiantHeartz.github.io/UIDevelopment/static/media/logo.6ce24c58.svg"
+    "main.css": "/UIDevelopment/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/UIDevelopment/static/js/main.8c5379e5.chunk.js",
+    "main.js.map": "/UIDevelopment/static/js/main.8c5379e5.chunk.js.map",
+    "runtime-main.js": "/UIDevelopment/static/js/runtime-main.441b40f5.js",
+    "runtime-main.js.map": "/UIDevelopment/static/js/runtime-main.441b40f5.js.map",
+    "static/js/2.0776a14c.chunk.js": "/UIDevelopment/static/js/2.0776a14c.chunk.js",
+    "static/js/2.0776a14c.chunk.js.map": "/UIDevelopment/static/js/2.0776a14c.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/UIDevelopment/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/UIDevelopment/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/UIDevelopment/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/UIDevelopment/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/UIDevelopment/static/js/2.0776a14c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/UIDevelopment/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bcd9524.js",
+    "static/js/runtime-main.441b40f5.js",
     "static/js/2.0776a14c.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.8c5379e5.chunk.js"
